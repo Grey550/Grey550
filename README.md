@@ -13,6 +13,7 @@
 
 <p>
 <div align="center">
+	  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Bash-Scripting-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/C-00AED8.svg?style=for-the-badge&logo=go&logoColor=pink">
   <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
@@ -47,20 +48,26 @@
 
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
+
+
 <br/>
 <p align="left">
   <a href="https://www.linkedin.com/in/angie-monnye">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=grey550&show_icons=true&include_all_commits=false&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=grey550&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=grey550&theme=radical&hide_border=true">		  
   </a>
 </p>
 <br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/angie-monnye">
+<!--<p align="center">
+  <a href="http://torrinleonard.com/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grey550&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
+-->
+
+
+
 
 
 

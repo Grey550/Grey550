@@ -12,6 +12,7 @@
 </p>
 
 <p>
+	<!--
 <div align="center">
 	  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Bash-Scripting-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -31,7 +32,7 @@
   <img src="https://img.shields.io/badge/Jira-2684FF.svg?style=for-the-badge&logo=Jira&logoColor=white">
   <img src="https://img.shields.io/badge/CONFLUENCE-black.svg?style=for-the-badge&logo=StackExchange&logoColor=">
 
-</div>
+</div> -->
 
 
 

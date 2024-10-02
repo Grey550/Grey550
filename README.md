@@ -1,6 +1,6 @@
-![Angie Monnye Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Angie Monnye Banner](https://github.com/Grey550/Grey550/blob/45e9b5f9433348afce666c7f427a06321905ead5/angie's%20banner.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Angie</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 

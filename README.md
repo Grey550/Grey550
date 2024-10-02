@@ -1,6 +1,6 @@
 ![Angie Monnye Banner](https://github.com/Grey550/Grey550/blob/45e9b5f9433348afce666c7f427a06321905ead5/angie's%20banner.png)
 
- ## 👋 &nbsp;Hey there! I'm Angie
+<!-- ## 👋 &nbsp;Hey there! I'm Angie
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -59,3 +59,4 @@
 <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
+-->

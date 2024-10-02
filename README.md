@@ -1,8 +1,6 @@
 ![Angie Monnye Banner](https://github.com/Grey550/Grey550/blob/45e9b5f9433348afce666c7f427a06321905ead5/angie's%20banner.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Angie</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+ ## 👋 &nbsp;Hey there! I'm Angie
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -14,7 +12,7 @@
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" height="350" width="500" src="https://github.com/Grey550/Grey550/blob/34e05cf41392d67ca98d0290fbf946dcdea275e7/animated-programmer.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 

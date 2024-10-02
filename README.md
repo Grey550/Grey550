@@ -10,9 +10,9 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" height="350" width="500" src="https://github.com/Grey550/Grey550/blob/34e05cf41392d67ca98d0290fbf946dcdea275e7/animated-programmer.gif" align="right"/>
+
+<img alt="Night Coding" width="300" height="185" src="https://github.com/Grey550/Grey550/blob/34e05cf41392d67ca98d0290fbf946dcdea275e7/animated-programmer.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
